@@ -1,6 +1,6 @@
 SimpleWebApp
 =====================================
-A simple web application written in JavaScript and HTML. 
+A simple web application framework written in JavaScript and HTML. 
 
 It uses AngularJS, RequireJS, Bootstrap, jQuery (only core). Views and scripts are lazily loaded. Built on top of https://github.com/ifyio/angularjs-lazy-loading-with-requirejs
 
